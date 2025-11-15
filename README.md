@@ -35,6 +35,9 @@ Password: rahul@2021
 | Frontend | State       | Auth | Styling                 |
 | -------- | ----------- | ---- | ----------------------- |
 | React.js | Context API | JWT  | Styled Components / CSS |
+
+
+
 🏗️ How to Run
 npm install
 npm start
